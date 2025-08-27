@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Divyanshu Chauhan Cover" width="100%" />
+  <img src="White Black Simple Minimalist LinkedIn Banner_20250822_020337_0000.png" alt="Divyanshu Chauhan Cover" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyanshu Chauhan</h1>
